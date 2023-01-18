@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+.block {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+
+}
+.border {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    width: 30%;
+    height: 300px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+
+}
+.header , .text1 , .button {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.text1 {
+    font-family: cursive;
+    font-size: 17px;
+}
+.button {
+    /*background: none;*/
+    /*border-width: 1px;*/
+    width: 150px;
+    height: 40px;
+
+}
+button {
+
+}
