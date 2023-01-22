@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background: aquamarine;
+}
+.main{
+    margin: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    width: 700px;
+    height: 200px;
+    background: beige;
+    margin: 20px;
+    display: flex;
+    /*flex-direction: column;*/
+}
+.logo, img{
+    /*margin-top: 40px;*/
+    /*display: flex;*/
+    /*align-items: center;*/
+    width: 70px;
+    height: 70px;
+}
+img{
+    margin: 60px 10px;
+    width: 70px;
+    height: 70px;
+}
+.head{
+    margin: 25px 10px 0 40px;
+}
+.header{
+    color: orange;
+}
+.text{
+    font-family: cursive;
+}
