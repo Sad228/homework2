@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    background: aquamarine;
+}.head{
+     display: flex;
+     justify-content: space-around;
+
+ }
+.box{
+    margin: 80px;
+    height: 550px;
+    width: 400px;
+    background: beige;
+
+}
+.scob{
+    font-size: 100px;
+    text-align: center;
+    margin: 20px;
+    color: aquamarine;
+    height: 50px;
+}
+.text{
+    margin: 30px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+
+}
+.img{
+    height: 130px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.name{
+    text-align: center;
+    font-size: 22px;
+    font-family: cursive;
+    color: aquamarine;
+    margin: 50px;
+}
+.undertext{
+    text-align: center;
+    font-size: 80px;
+    font-family: cursive;
+}
+.undertext2{
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact;
+}
